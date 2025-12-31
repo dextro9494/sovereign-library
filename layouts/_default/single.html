@@ -23,7 +23,7 @@
         <h3>Connected to:</h3>
         <ul>
             {{ range .Params.connected }}
-            <li><a href="{{ . }}">{{ . }}</a></li>
+            <li><a href="{{ . | relURL }}">{{ . }}</a></li>
             {{ end }}
         </ul>
     </div>
