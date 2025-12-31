@@ -4,7 +4,7 @@ title = "The Sovereign Library"
 
 [params]
   description = "A system for holding what I know, so I don't have to carry it."
-  author = "István Drotár"
+  author = "István"
 
 [menu]
   [[menu.main]]
