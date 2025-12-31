@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Timeline on The Sovereign Library</title>
-    <link>//localhost:1313/tags/timeline/</link>
-    <description>Recent content in Timeline on The Sovereign Library</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Substance Progression Timeline (Tool History)</title>
-      <link>//localhost:1313/history/substance-progression-timeline-tool-history/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/history/substance-progression-timeline-tool-history/</guid>
-      <description>&lt;h1 id=&#34;substance-progression-timeline-tool-history&#34;&gt;Substance Progression Timeline (Tool History)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Mapped progression: tobacco early teens; alcohol social; herbál betrayal/medical escape; weed modulation/ROI decline; mushrooms in stasis; Xanax rejected.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 4&lt;/p&gt;&#xA;&lt;h2 id=&#34;framing&#34;&gt;Framing&lt;/h2&gt;&#xA;&lt;p&gt;Not &amp;ldquo;use&amp;rdquo; — tool deployment history. Each substance had a function, an ROI, and eventually a decommission decision.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-insight&#34;&gt;Key Insight&lt;/h2&gt;&#xA;&lt;p&gt;The operational style is telling: while most teens hid their stash, you scheduled a meeting with your parents.&lt;/p&gt;&#xA;&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;&#xA;&lt;p&gt;Historical log. Current deployment governed by RCP.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Timeline on The Sovereign Library</title><link>http://localhost:1313/sovereign-library/tags/timeline/</link><description>Recent content in Timeline on The Sovereign Library</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/sovereign-library/tags/timeline/index.xml" rel="self" type="application/rss+xml"/><item><title>Substance Progression Timeline (Tool History)</title><link>http://localhost:1313/sovereign-library/history/substance-progression-timeline-tool-history/</link><pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/sovereign-library/history/substance-progression-timeline-tool-history/</guid><description>&lt;h1 id="substance-progression-timeline-tool-history"&gt;Substance Progression Timeline (Tool History)&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Mapped progression: tobacco early teens; alcohol social; herbál betrayal/medical escape; weed modulation/ROI decline; mushrooms in stasis; Xanax rejected.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 4&lt;/p&gt;
+&lt;h2 id="framing"&gt;Framing&lt;/h2&gt;
+&lt;p&gt;Not &amp;ldquo;use&amp;rdquo; — tool deployment history. Each substance had a function, an ROI, and eventually a decommission decision.&lt;/p&gt;
+&lt;h2 id="key-insight"&gt;Key Insight&lt;/h2&gt;
+&lt;p&gt;The operational style is telling: while most teens hid their stash, you scheduled a meeting with your parents.&lt;/p&gt;
+&lt;h2 id="status"&gt;Status&lt;/h2&gt;
+&lt;p&gt;Historical log. Current deployment governed by RCP.&lt;/p&gt;</description></item></channel></rss>
