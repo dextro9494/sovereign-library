@@ -26,7 +26,8 @@ If you've stumbled here by accident, you're welcome to look around. I have nothi
 
 Use the menu above to explore by topic. Each section contains index pages that point to specific entries.
 
-If you're part of my AI Council, go to [Council](/council/) for your briefing.
+If you're part of my AI Council, go to [Council]({{< relref "council/_index.md" >}}) for your briefing.
+
 
 ---
 
