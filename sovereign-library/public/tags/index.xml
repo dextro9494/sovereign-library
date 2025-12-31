@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Sovereign Library</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Builder</title>
+      <link>//localhost:1313/tags/builder/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/builder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Core</title>
+      <link>//localhost:1313/tags/core/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/core/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identity</title>
+      <link>//localhost:1313/tags/identity/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/identity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Integration</title>
+      <link>//localhost:1313/tags/integration/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/integration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open-Question</title>
+      <link>//localhost:1313/tags/open-question/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/open-question/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pattern</title>
+      <link>//localhost:1313/tags/pattern/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Survivor</title>
+      <link>//localhost:1313/tags/survivor/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/survivor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Architecture</title>
+      <link>//localhost:1313/tags/architecture/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>//localhost:1313/tags/archive/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/archive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Constraint</title>
+      <link>//localhost:1313/tags/constraint/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/constraint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decision</title>
+      <link>//localhost:1313/tags/decision/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/decision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interface</title>
+      <link>//localhost:1313/tags/interface/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/interface/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protocol</title>
+      <link>//localhost:1313/tags/protocol/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/protocol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protocol-Integrity</title>
+      <link>//localhost:1313/tags/protocol-integrity/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/protocol-integrity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scaling</title>
+      <link>//localhost:1313/tags/scaling/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/scaling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Separation-of-Concerns</title>
+      <link>//localhost:1313/tags/separation-of-concerns/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/separation-of-concerns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/tags/test/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>V7-0</title>
+      <link>//localhost:1313/tags/v7-0/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/v7-0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workflow</title>
+      <link>//localhost:1313/tags/workflow/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/workflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai-Agents</title>
+      <link>//localhost:1313/tags/ai-agents/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ai-agents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Avoidance</title>
+      <link>//localhost:1313/tags/avoidance/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/avoidance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chronology</title>
+      <link>//localhost:1313/tags/chronology/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/chronology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Communication</title>
+      <link>//localhost:1313/tags/communication/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debugging</title>
+      <link>//localhost:1313/tags/debugging/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/debugging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Format</title>
+      <link>//localhost:1313/tags/format/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/format/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Friction</title>
+      <link>//localhost:1313/tags/friction/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/friction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outreach</title>
+      <link>//localhost:1313/tags/outreach/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/outreach/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recruiting</title>
+      <link>//localhost:1313/tags/recruiting/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/recruiting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resistance</title>
+      <link>//localhost:1313/tags/resistance/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/resistance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Safety-Lock</title>
+      <link>//localhost:1313/tags/safety-lock/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/safety-lock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Somatic-Marker</title>
+      <link>//localhost:1313/tags/somatic-marker/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/somatic-marker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Temporal</title>
+      <link>//localhost:1313/tags/temporal/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/temporal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tone</title>
+      <link>//localhost:1313/tags/tone/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Verification</title>
+      <link>//localhost:1313/tags/verification/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/verification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Budget</title>
+      <link>//localhost:1313/tags/budget/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/budget/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Care</title>
+      <link>//localhost:1313/tags/care/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/care/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Constraints</title>
+      <link>//localhost:1313/tags/constraints/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/constraints/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Countermeasure</title>
+      <link>//localhost:1313/tags/countermeasure/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/countermeasure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deployment</title>
+      <link>//localhost:1313/tags/deployment/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/deployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineering</title>
+      <link>//localhost:1313/tags/engineering/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>//localhost:1313/tags/health/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pain</title>
+      <link>//localhost:1313/tags/pain/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Procurement</title>
+      <link>//localhost:1313/tags/procurement/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/procurement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recon</title>
+      <link>//localhost:1313/tags/recon/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/recon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sovereignty</title>
+      <link>//localhost:1313/tags/sovereignty/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sovereignty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asset</title>
+      <link>//localhost:1313/tags/asset/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/asset/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bridge-Narrative</title>
+      <link>//localhost:1313/tags/bridge-narrative/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/bridge-narrative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linkedin</title>
+      <link>//localhost:1313/tags/linkedin/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Narrative</title>
+      <link>//localhost:1313/tags/narrative/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/narrative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photo</title>
+      <link>//localhost:1313/tags/photo/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>//localhost:1313/tags/resume/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/resume/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sap</title>
+      <link>//localhost:1313/tags/sap/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Validation</title>
+      <link>//localhost:1313/tags/validation/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/validation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aar</title>
+      <link>//localhost:1313/tags/aar/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/aar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai-Council</title>
+      <link>//localhost:1313/tags/ai-council/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ai-council/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alcohol</title>
+      <link>//localhost:1313/tags/alcohol/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/alcohol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anti-Substitution</title>
+      <link>//localhost:1313/tags/anti-substitution/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/anti-substitution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assets</title>
+      <link>//localhost:1313/tags/assets/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/assets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autonomy</title>
+      <link>//localhost:1313/tags/autonomy/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/autonomy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Boundaries</title>
+      <link>//localhost:1313/tags/boundaries/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/boundaries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career</title>
+      <link>//localhost:1313/tags/career/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Collaboration</title>
+      <link>//localhost:1313/tags/collaboration/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/collaboration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>//localhost:1313/tags/culture/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>//localhost:1313/tags/database/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Declaration</title>
+      <link>//localhost:1313/tags/declaration/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/declaration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Delegation</title>
+      <link>//localhost:1313/tags/delegation/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/delegation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>//localhost:1313/tags/education/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enjoyment</title>
+      <link>//localhost:1313/tags/enjoyment/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/enjoyment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Execution</title>
+      <link>//localhost:1313/tags/execution/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/execution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fiancee</title>
+      <link>//localhost:1313/tags/fiancee/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/fiancee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filter</title>
+      <link>//localhost:1313/tags/filter/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/filter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freelance</title>
+      <link>//localhost:1313/tags/freelance/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/freelance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future-Self</title>
+      <link>//localhost:1313/tags/future-self/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/future-self/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gating</title>
+      <link>//localhost:1313/tags/gating/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/gating/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>//localhost:1313/tags/infrastructure/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>//localhost:1313/tags/life/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Loop</title>
+      <link>//localhost:1313/tags/loop/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/loop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market-Signal</title>
+      <link>//localhost:1313/tags/market-signal/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/market-signal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>//localhost:1313/tags/network/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Partnership</title>
+      <link>//localhost:1313/tags/partnership/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/partnership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pillars</title>
+      <link>//localhost:1313/tags/pillars/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pillars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pleasure</title>
+      <link>//localhost:1313/tags/pleasure/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pleasure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Positioning</title>
+      <link>//localhost:1313/tags/positioning/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/positioning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project</title>
+      <link>//localhost:1313/tags/project/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real-World</title>
+      <link>//localhost:1313/tags/real-world/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/real-world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relational</title>
+      <link>//localhost:1313/tags/relational/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/relational/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roles</title>
+      <link>//localhost:1313/tags/roles/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/roles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Signal</title>
+      <link>//localhost:1313/tags/signal/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/signal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>//localhost:1313/tags/skills/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stability</title>
+      <link>//localhost:1313/tags/stability/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/stability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strategy</title>
+      <link>//localhost:1313/tags/strategy/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stress-Test</title>
+      <link>//localhost:1313/tags/stress-test/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/stress-test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Substitution-Risk</title>
+      <link>//localhost:1313/tags/substitution-risk/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/substitution-risk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems</title>
+      <link>//localhost:1313/tags/systems/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Telemetry</title>
+      <link>//localhost:1313/tags/telemetry/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/telemetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vision</title>
+      <link>//localhost:1313/tags/vision/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Audit</title>
+      <link>//localhost:1313/tags/audit/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/audit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Baseline</title>
+      <link>//localhost:1313/tags/baseline/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/baseline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Breath</title>
+      <link>//localhost:1313/tags/breath/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/breath/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C-Ptsd</title>
+      <link>//localhost:1313/tags/c-ptsd/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/c-ptsd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Codex</title>
+      <link>//localhost:1313/tags/codex/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/codex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Context</title>
+      <link>//localhost:1313/tags/context/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/context/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Continuity</title>
+      <link>//localhost:1313/tags/continuity/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/continuity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Core-Machinery</title>
+      <link>//localhost:1313/tags/core-machinery/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/core-machinery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decompression</title>
+      <link>//localhost:1313/tags/decompression/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/decompression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diagnosis</title>
+      <link>//localhost:1313/tags/diagnosis/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/diagnosis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Direction</title>
+      <link>//localhost:1313/tags/direction/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/direction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Doctrine</title>
+      <link>//localhost:1313/tags/doctrine/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/doctrine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drive</title>
+      <link>//localhost:1313/tags/drive/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/drive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family</title>
+      <link>//localhost:1313/tags/family/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>//localhost:1313/tags/hardware/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intensity</title>
+      <link>//localhost:1313/tags/intensity/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/intensity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lockout</title>
+      <link>//localhost:1313/tags/lockout/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/lockout/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Malware</title>
+      <link>//localhost:1313/tags/malware/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/malware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nervous-System</title>
+      <link>//localhost:1313/tags/nervous-system/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/nervous-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Origin</title>
+      <link>//localhost:1313/tags/origin/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/origin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Origin-Story</title>
+      <link>//localhost:1313/tags/origin-story/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/origin-story/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Os</title>
+      <link>//localhost:1313/tags/os/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/os/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Overwhelm</title>
+      <link>//localhost:1313/tags/overwhelm/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/overwhelm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Panic</title>
+      <link>//localhost:1313/tags/panic/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/panic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>//localhost:1313/tags/philosophy/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Preamble</title>
+      <link>//localhost:1313/tags/preamble/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/preamble/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rebuild</title>
+      <link>//localhost:1313/tags/rebuild/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/rebuild/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recap</title>
+      <link>//localhost:1313/tags/recap/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/recap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Save</title>
+      <link>//localhost:1313/tags/save/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/save/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session-End</title>
+      <link>//localhost:1313/tags/session-end/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/session-end/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shadow</title>
+      <link>//localhost:1313/tags/shadow/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/shadow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solitude</title>
+      <link>//localhost:1313/tags/solitude/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/solitude/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Somatic</title>
+      <link>//localhost:1313/tags/somatic/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/somatic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Startup</title>
+      <link>//localhost:1313/tags/startup/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/startup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Substance</title>
+      <link>//localhost:1313/tags/substance/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/substance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Timeline</title>
+      <link>//localhost:1313/tags/timeline/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/timeline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>//localhost:1313/tags/tools/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tremor</title>
+      <link>//localhost:1313/tags/tremor/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tremor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Attachment</title>
+      <link>//localhost:1313/tags/attachment/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/attachment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Context-Loss</title>
+      <link>//localhost:1313/tags/context-loss/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/context-loss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-Loss</title>
+      <link>//localhost:1313/tags/data-loss/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/data-loss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grief</title>
+      <link>//localhost:1313/tags/grief/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/grief/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Safety</title>
+      <link>//localhost:1313/tags/safety/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Therapy</title>
+      <link>//localhost:1313/tags/therapy/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/therapy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai-Tools</title>
+      <link>//localhost:1313/tags/ai-tools/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ai-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asymmetry</title>
+      <link>//localhost:1313/tags/asymmetry/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/asymmetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market-Failure</title>
+      <link>//localhost:1313/tags/market-failure/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/market-failure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>//localhost:1313/tags/security/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crisis</title>
+      <link>//localhost:1313/tags/crisis/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/crisis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Failure</title>
+      <link>//localhost:1313/tags/failure/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/failure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fortress-Base</title>
+      <link>//localhost:1313/tags/fortress-base/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/fortress-base/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job</title>
+      <link>//localhost:1313/tags/job/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/job/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postnl</title>
+      <link>//localhost:1313/tags/postnl/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/postnl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>//localhost:1313/tags/work/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/work/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

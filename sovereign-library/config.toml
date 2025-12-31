@@ -1,0 +1,37 @@
+baseURL = "/"
+languageCode = "en"
+title = "The Sovereign Library"
+
+[params]
+  description = "A system for holding what I know, so I don't have to carry it."
+  author = "István Drotár"
+
+[menu]
+  [[menu.main]]
+    name = "Patterns"
+    url = "/patterns/"
+    weight = 1
+  [[menu.main]]
+    name = "Protocols"
+    url = "/protocols/"
+    weight = 2
+  [[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 3
+  [[menu.main]]
+    name = "Philosophy"
+    url = "/philosophy/"
+    weight = 4
+  [[menu.main]]
+    name = "Field Tests"
+    url = "/field-tests/"
+    weight = 5
+  [[menu.main]]
+    name = "Relationships"
+    url = "/relationships/"
+    weight = 6
+  [[menu.main]]
+    name = "Council"
+    url = "/council/"
+    weight = 7

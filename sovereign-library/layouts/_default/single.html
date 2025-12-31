@@ -1,0 +1,32 @@
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+    
+    {{ if .Params.tags }}
+    <div class="tags">
+        {{ range .Params.tags }}
+        <span class="tag">{{ . }}</span>
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    {{ if .Params.date }}
+    <p class="date">{{ .Params.date }}</p>
+    {{ end }}
+    
+    <div class="content">
+        {{ .Content }}
+    </div>
+    
+    {{ if .Params.connected }}
+    <div class="connections">
+        <h3>Connected to:</h3>
+        <ul>
+            {{ range .Params.connected }}
+            <li><a href="{{ . }}">{{ . }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+</article>
+{{ end }}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/" class="site-title">{{ .Site.Title }}</a>
+            <ul class="nav-links">
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    <footer>
+        <p>The Sovereign Library — Built to hold, not to instruct.</p>
+    </footer>
+</body>
+</html>

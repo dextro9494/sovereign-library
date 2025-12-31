@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section>
+    <div class="content">
+        {{ .Content }}
+    </div>
+    
+    {{ if .Pages }}
+    <div class="entries">
+        <h2>Entries</h2>
+        <ul>
+            {{ range .Pages }}
+            <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                {{ if .Params.tags }}
+                <span class="entry-tags">
+                    {{ range .Params.tags }}[{{ . }}]{{ end }}
+                </span>
+                {{ end }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+</section>
+{{ end }}
