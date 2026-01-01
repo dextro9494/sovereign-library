@@ -6,8 +6,6 @@ status: "raw"
 connected: ["/history/ai-council-role-definitions/"]
 ---
 
-# Grok Interface Boundary Test
-
 **Summary:** Attempted direct 'Memory Audit' prompt; blocked. Finding: hard privacy/security boundaries; best used as bounded tactical problem-solver.
 
 **Source:** Raw Transcripts: Batch 3

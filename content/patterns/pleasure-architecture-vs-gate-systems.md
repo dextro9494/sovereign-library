@@ -6,8 +6,6 @@ status: "working"
 connected: ["/protocols/real-world-connection-protocol-rcp/", "/philosophy/relational-sovereignty-parallel-track-declaration/"]
 ---
 
-# Pleasure Architecture vs Gate Systems
-
 **Summary:** 'Pleasure Architecture' is flagged as high substitution risk: if pleasure is built via 'gate systems' it must be forced through RCP to prevent avoidance/displacement.
 
 **Source:** Raw Transcripts TXT: Batch 3

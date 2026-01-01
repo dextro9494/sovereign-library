@@ -6,8 +6,6 @@ status: "working"
 connected: ["/history/ai-council-role-definitions/", "/protocols/continuity-command-opening-ritual/"]
 ---
 
-# AI Deployment Protocol (Council Delegation)
-
 **Summary:** Use different AIs as specialized processors with bounded missions. Operator remains Director; DeepSeek as primary architect; others as tactical recon, narrative, or stress-testers.
 
 **Source:** Raw Transcripts: Batches 3, 5–6

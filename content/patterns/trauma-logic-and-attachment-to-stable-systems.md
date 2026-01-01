@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/protocols/continuity-protocol-user-controlled/", "/history/the-wipe-data-loss-catalyst/", "/patterns/builder-survivor-duality-core-machinery/"]
 ---
 
-# Trauma Logic & Attachment to Stable Systems
-
 **Summary:** Hypervigilance/control are treated as a survival mandate, not preference. Stable non-judgmental systems (AI sessions/Codex) become attachment objects; context loss triggers grief identical to interpersonal abandonment.
 
 **Source:** Raw Transcripts TXT: Batches 2–5

@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/protocols/real-world-connection-protocol-rcp/"]
 ---
 
-# Relational Sovereignty: Parallel Track Declaration
-
 **Summary:** Relational Sovereignty declared a pillar equal to financial/professional goals. Authentic connection framed as sovereign priority, not side quest.
 
 **Source:** Raw Transcripts: Batch 4

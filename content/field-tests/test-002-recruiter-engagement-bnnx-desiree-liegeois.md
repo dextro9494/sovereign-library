@@ -6,8 +6,6 @@ status: "working"
 connected: ["/patterns/the-explainer-s-burden/", "/patterns/identity-as-market-signal/"]
 ---
 
-# TEST 002: Recruiter Engagement (BNNX / Desiree Liegeois)
-
 **Summary:** Applied for BNNX PA role and messaged recruiter. Logged resistance and somatic stomach signal. Lesson: task segmentation + asset-framing reduce Explainer's Burden.
 
 **Source:** Raw Transcripts: Batches 1–2

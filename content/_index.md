@@ -2,6 +2,6 @@
 title: "Home"
 ---
 
-This is a clean rebuild of the library site, designed to be safe on GitHub Pages subfolder deploys.
+This build uses your chosen entry set and a link-safe Hugo setup for GitHub Pages.
 
-Entries can be `canonical`, `working`, or `raw`.
+If a “Connected to” target is missing, it will show up as **Missing:** instead of silently 404’ing.

@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/protocols/stress-test-philosophy-and-after-action-review-aar/", "/field-tests/test-001-digital-farming-initiative-market-failure/", "/field-tests/test-003-mattress-procurement-dibapur-rh5-rg40-h5/"]
 ---
 
-# Diagnose → Design → Deploy → Gather → Integrate (Core Loop)
-
 **Summary:** Operational flywheel: diagnose constraints, design an asymmetrical solution, deploy, gather data, integrate back into system. Turns 'failure' into telemetry.
 
 **Source:** Raw Transcripts TXT: Batches 1–3

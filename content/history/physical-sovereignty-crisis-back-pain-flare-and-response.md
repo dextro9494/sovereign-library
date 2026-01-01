@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/field-tests/therapeutic-care-recon-massage-physio/", "/field-tests/immediate-pain-countermeasures-diclofenac-heat/", "/field-tests/test-003-mattress-procurement-dibapur-rh5-rg40-h5/"]
 ---
 
-# Physical Sovereignty Crisis: Back Pain Flare & Response
-
 **Summary:** Acute back pain flare: care-provider recon showed systemic delays. Decision: book future specialist slot, deploy immediate countermeasures, pivot to root cause via mattress procurement.
 
 **Source:** Raw Transcripts: Batch 2

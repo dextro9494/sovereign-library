@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/history/origin-codex-born-from-c-ptsd-baseline/"]
 ---
 
-# Preamble Line: The life that was supposed to be there, wasn't
-
 **Summary:** Doctrine-level line that sets emotional and strategic frame: the Codex is a field manual for asymmetric survival.
 
 **Source:** Raw Transcripts: Batches 1, 4

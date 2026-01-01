@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/patterns/diagnose-design-deploy-gather-integrate-core-loop/", "/history/catalytic-crisis-digital-farming-frozen-car-funds/"]
 ---
 
-# Stress Test Philosophy & After-Action Review (AAR)
-
 **Summary:** Formalize stress events as diagnostic procedures. Evaluate mechanically ('what threshold was exceeded?'). Convert self-doubt into telemetry.
 
 **Source:** Raw Transcripts: Batches 1–2

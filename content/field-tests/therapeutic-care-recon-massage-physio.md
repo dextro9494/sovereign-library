@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/history/physical-sovereignty-crisis-back-pain-flare-and-response/"]
 ---
 
-# Therapeutic Care Recon (Massage/Physio)
-
 **Summary:** Recon for providers around Kerkrade; validated systemic booking delay. Booked future slot as foothold.
 
 **Source:** Raw Transcripts: Batch 2

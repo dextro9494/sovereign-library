@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/history/v7-0-overhaul-decision/", "/philosophy/core-archive-dual-layer-architecture/"]
 ---
 
-# Archive Integration Methodology
-
 **Summary:** Dedicated workflow: separate execution mode from archiving mode (dedicated chat for legacy integration). Clean separation of concerns keeps velocity high and avoids the extraction swamp.
 
 **Source:** Raw Transcripts: Batch 7

@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/patterns/builder-survivor-duality-core-machinery/", "/patterns/somatic-telemetry-tremor-as-lockout-signal/", "/protocols/breathing-override-edge-case-protocol/"]
 ---
 
-# 5-Second Engine Ignition
-
 **Summary:** Bypass for Survivor lockout: acknowledge Survivor mode, apply physical cue (sharp exhale + body shake), issue 'Execute Protocol', act within 5 seconds before debate starts.
 
 **Source:** Raw Transcripts TXT: Batches 1–4

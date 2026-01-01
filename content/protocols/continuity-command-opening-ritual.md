@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/protocols/continuity-protocol-user-controlled/"]
 ---
 
-# Continuity Command (Opening Ritual)
-
 **Summary:** Opening ritual for any new AI chat: establish roles, context, and continuity anchors so the session is immediately operational.
 
 **Source:** Raw Transcripts: Batch 5

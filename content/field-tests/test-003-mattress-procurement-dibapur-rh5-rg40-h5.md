@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/history/physical-sovereignty-crisis-back-pain-flare-and-response/", "/patterns/budget-as-a-design-parameter/"]
 ---
 
-# TEST 003: Mattress Procurement (Dibapur RH5 RG40 H5)
-
 **Summary:** Council-led recon procured Dibapur RH5 cold-foam mattress. Validated data-driven procurement and the 'medium-firm 6–7/10' criterion; managed return-logistics risk.
 
 **Source:** Raw Transcripts: Batches 1–2

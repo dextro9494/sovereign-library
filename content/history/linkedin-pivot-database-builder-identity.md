@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/patterns/identity-as-market-signal/", "/field-tests/linkedin-identity-deployment-administrative-and-database-specialist/"]
 ---
 
-# LinkedIn Pivot: Database Builder Identity
-
 **Summary:** Strategic decision to foreground Database Builder as primary market identity after recognizing a mismatch between competence and branding.
 
 **Source:** Raw Transcripts: Batch 3

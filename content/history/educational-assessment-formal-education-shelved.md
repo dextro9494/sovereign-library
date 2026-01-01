@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/patterns/diagnose-design-deploy-gather-integrate-core-loop/"]
 ---
 
-# Educational Assessment: Formal Education Shelved
-
 **Summary:** Considered accounting/study; identified language/time costs as gates. Pivoted to immediate job search + targeted certs.
 
 **Source:** Raw Transcripts: Batch 2

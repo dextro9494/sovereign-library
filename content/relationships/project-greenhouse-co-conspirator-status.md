@@ -6,8 +6,6 @@ status: "working"
 connected: ["/relationships/fiancee-lifeboat-partnership-and-domestic-stability/"]
 ---
 
-# Project Greenhouse: Co-Conspirator Status
-
 **Summary:** Fiancée listed as engaged co-conspirator in Project Greenhouse. Signals trust and practical collaboration.
 
 **Source:** Raw Transcripts: Batches 3–4

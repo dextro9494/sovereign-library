@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/history/physical-sovereignty-crisis-back-pain-flare-and-response/"]
 ---
 
-# Immediate Pain Countermeasures (Diclofenac + Heat)
-
 **Summary:** Deployed immediate holding actions for pain while infrastructure changes were pursued.
 
 **Source:** Raw Transcripts: Batch 2

@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/patterns/somatic-telemetry-tremor-as-lockout-signal/", "/protocols/5-second-engine-ignition/"]
 ---
 
-# Breathing Override (Edge-Case Protocol)
-
 **Summary:** When cognitive access fails, physiology becomes the command line: inhale/exhale, reboot from the body.
 
 **Source:** Raw Transcripts: Batches 1, 4

@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/patterns/identity-as-market-signal/", "/field-tests/visual-identity-professional-photo-deployment/"]
 ---
 
-# LinkedIn Identity Deployment: Administrative & Database Specialist
-
 **Summary:** Deployed professional identity on LinkedIn: refined resume, polished About section, professional photo, tailored application messaging.
 
 **Source:** Raw Transcripts: Batches 2–3

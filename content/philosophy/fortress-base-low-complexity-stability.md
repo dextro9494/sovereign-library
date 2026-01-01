@@ -6,8 +6,6 @@ status: "working"
 connected: ["/history/anchor-decision-postnl-as-fortress-base/"]
 ---
 
-# Fortress Base: Low-Complexity Stability
-
 **Summary:** Build a 'Fortress Base' job (low complexity, high stability) that funds the rebuild and reduces volatility.
 
 **Source:** Raw Transcripts: Batches 4–6

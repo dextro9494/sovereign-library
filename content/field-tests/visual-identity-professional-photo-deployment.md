@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/field-tests/linkedin-identity-deployment-administrative-and-database-specialist/"]
 ---
 
-# Visual Identity: Professional Photo Deployment
-
 **Summary:** Executed professional headshot after environmental timing and calibration steps (shower/shave). Logged as asset deployment under resistance.
 
 **Source:** Raw Transcripts: Batches 1, 3

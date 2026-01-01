@@ -6,8 +6,6 @@ status: "working"
 connected: ["/protocols/stress-test-philosophy-and-after-action-review-aar/", "/field-tests/test-002-recruiter-engagement-bnnx-desiree-liegeois/", "/patterns/somatic-telemetry-tremor-as-lockout-signal/"]
 ---
 
-# The Explainer's Burden
-
 **Summary:** A repeatable friction pattern: when a task requires explanation/justification to others, resistance spikes and somatic warning appears (stomach tightness). Workarounds: task segmentation and asset-framing.
 
 **Source:** Raw Transcripts TXT: Batches 1–2

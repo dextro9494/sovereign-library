@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/philosophy/core-archive-dual-layer-architecture/"]
 ---
 
-# TEST: Growth Limit Identification
-
 **Summary:** Identified 15-page soft cap as unsustainable constraint; triggered v7.0 architecture evolution.
 
 **Source:** Raw Transcripts: Batch 7

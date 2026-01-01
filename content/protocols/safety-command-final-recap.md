@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/protocols/continuity-protocol-user-controlled/"]
 ---
 
-# Safety Command: ##FINAL_RECAP
-
 **Summary:** Mandatory end-of-session command that generates a structured, saveable summary so data never dies inside the chat window.
 
 **Source:** Raw Transcripts: Batch 5

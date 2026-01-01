@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/field-tests/test-003-mattress-procurement-dibapur-rh5-rg40-h5/", "/history/physical-sovereignty-crisis-back-pain-flare-and-response/"]
 ---
 
-# Budget as a Design Parameter
-
 **Summary:** Money limits are treated like engineering constraints, not temporary hardship. Solutions must be engineered inside the constraint (mattress decision: 'cheap option im poor').
 
 **Source:** Raw Transcripts TXT: Batch 2

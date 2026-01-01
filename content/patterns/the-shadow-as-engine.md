@@ -6,8 +6,6 @@ status: "working"
 connected: ["/philosophy/asymmetric-warfare-not-healing/", "/protocols/real-world-connection-protocol-rcp/"]
 ---
 
-# The Shadow as Engine
-
 **Summary:** The Shadow provides intensity and propulsion; it is not the enemy. The system's task: give it direction, not suppression.
 
 **Source:** Raw Transcripts TXT: Batch 4

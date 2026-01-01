@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/protocols/format-protocol-6-2-live-chat-vs-codex-mode/"]
 ---
 
-# Protocol 6.2 Saga: Over-Formatting as Friction
-
 **Summary:** Over-formatting in live chat became a diagnostic case study. Fix was precise operational definition (Tone Directive + Safety Lock), not more rules.
 
 **Source:** Raw Transcripts: Batch 3

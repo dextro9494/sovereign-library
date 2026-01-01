@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/patterns/identity-as-market-signal/", "/field-tests/resume-v2-0-bridge-narrative-test/"]
 ---
 
-# Professional Reframe: Operations & Systems Specialist Bridge
-
 **Summary:** Reframed fragmented work history (SAP coordination + logistics agency chaos) into a coherent bridge narrative: Operations & Systems Specialist / Builder.
 
 **Source:** Raw Transcripts: Batch 6

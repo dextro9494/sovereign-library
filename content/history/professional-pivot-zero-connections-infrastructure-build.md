@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/field-tests/linkedin-identity-deployment-administrative-and-database-specialist/"]
 ---
 
-# Professional Pivot: Zero Connections → Infrastructure Build
-
 **Summary:** Encountered 'zero connections' wall; chose two-phase build: foundation first, then outreach.
 
 **Source:** Raw Transcripts: Batch 2

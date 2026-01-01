@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/history/protocol-6-2-saga-over-formatting-as-friction/"]
 ---
 
-# Format Protocol 6.2 (Live Chat vs Codex Mode)
-
 **Summary:** Hard boundary between natural-language live chat and formal Codex formatting. Includes Tone Directive and First-Response Safety Lock.
 
 **Source:** Raw Transcripts TXT: Batches 2–3, 5

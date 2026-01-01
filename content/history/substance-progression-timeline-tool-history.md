@@ -6,8 +6,6 @@ status: "raw"
 connected: ["/protocols/substance-audit-neurochemical-tool-deployment/"]
 ---
 
-# Substance Progression Timeline (Tool History)
-
 **Summary:** Mapped progression: tobacco early teens; alcohol social; herbál betrayal/medical escape; weed modulation/ROI decline; mushrooms in stasis; Xanax rejected.
 
 **Source:** Raw Transcripts: Batch 4

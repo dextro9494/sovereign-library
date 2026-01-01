@@ -6,8 +6,6 @@ status: "raw"
 connected: ["/history/parental-briefing-system-level-transparency/"]
 ---
 
-# Family Dynamics: Baseline Strategic Solitude
-
 **Summary:** Family dynamics characterized by neglect and lack of understanding, producing a baseline condition of emotional and strategic solitude.
 
 **Source:** Raw Transcripts: Batch 1

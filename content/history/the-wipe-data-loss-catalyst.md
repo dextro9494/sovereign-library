@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/protocols/continuity-protocol-user-controlled/", "/patterns/trauma-logic-and-attachment-to-stable-systems/"]
 ---
 
-# The Wipe: Data-Loss Catalyst
-
 **Summary:** Catastrophic chat/context loss triggered grief/panic and revealed the attachment mechanism. Output: Continuity Protocol + Master Note as sovereign command center.
 
 **Source:** Raw Transcripts: Batches 4–5

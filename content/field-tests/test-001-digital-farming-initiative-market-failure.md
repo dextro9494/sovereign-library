@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/history/catalytic-crisis-digital-farming-frozen-car-funds/"]
 ---
 
-# TEST 001: Digital Farming Initiative (Market Failure)
-
 **Summary:** Pre-Codex, large-scale asymmetric economic maneuver terminated by market failure. Validated need for stable pipeline (Site Alpha).
 
 **Source:** Raw Transcripts: Batches 1–2

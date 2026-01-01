@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/history/the-wipe-data-loss-catalyst/", "/patterns/trauma-logic-and-attachment-to-stable-systems/"]
 ---
 
-# Continuity Protocol (User-Controlled)
-
 **Summary:** Prevent 'eviction' via chat/context loss by externalizing continuity into a sovereign command center (Master Note).
 
 **Source:** Raw Transcripts: Batches 4–5

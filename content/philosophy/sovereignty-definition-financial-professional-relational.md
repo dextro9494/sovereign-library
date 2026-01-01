@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/protocols/real-world-connection-protocol-rcp/"]
 ---
 
-# Sovereignty Definition: Financial, Professional, Relational
-
 **Summary:** Three pillars used as decision criteria: Financial/Professional Sovereignty and Relational Sovereignty (with enjoyment as an outcome metric).
 
 **Source:** Raw Transcripts: Batches 1–4

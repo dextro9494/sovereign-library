@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/philosophy/sovereignty-definition-financial-professional-relational/", "/protocols/stress-test-philosophy-and-after-action-review-aar/"]
 ---
 
-# Asymmetric Warfare, Not Healing
-
 **Summary:** Foundational decision: treat life reconstruction as asymmetric warfare against a 31-year deficit, not 'healing'. Victory is a managed, sovereign life.
 
 **Source:** Raw Transcripts: Batches 4–5

@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/history/linkedin-pivot-database-builder-identity/", "/field-tests/linkedin-identity-deployment-administrative-and-database-specialist/", "/field-tests/visual-identity-professional-photo-deployment/"]
 ---
 
-# Identity as Market Signal
-
 **Summary:** Positioning principle: external signals must match internal competence maps. The pivot to foreground 'Database Builder' beats generic 'Operations' branding.
 
 **Source:** Raw Transcripts TXT: Batches 2–3

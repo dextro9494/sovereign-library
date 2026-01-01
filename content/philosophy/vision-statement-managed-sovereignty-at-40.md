@@ -6,8 +6,6 @@ status: "working"
 connected: ["/philosophy/asymmetric-warfare-not-healing/", "/protocols/real-world-connection-protocol-rcp/"]
 ---
 
-# Vision Statement: Managed Sovereignty at 40
-
 **Summary:** Desired life state: freelance/home-office work delivering autonomy and enjoyment (food, culture, sensual connection). 'Age 40 as fine wine' frames time horizon as buildable, not lost.
 
 **Source:** Raw Transcripts: Batch 6

@@ -13,4 +13,4 @@ title: "Council"
 
 ## Notes
 
-The Council is a coordination layer: roles, tools, and decision hygiene.
+This page is intentionally simple. Links here are `relref`-based so they can’t drift into 404 territory.

@@ -6,8 +6,6 @@ status: "working"
 connected: ["/protocols/substance-audit-neurochemical-tool-deployment/"]
 ---
 
-# Social Treaty: Hungarian Drinking Culture Constraint
-
 **Summary:** Persistent social pressure ('No pálinka?'). Enforced personal treaty: beer/wine only, 1–2 shots max.
 
 **Source:** Raw Transcripts: Batch 4

@@ -6,8 +6,6 @@ status: "raw"
 connected: ["/patterns/builder-survivor-duality-core-machinery/", "/protocols/stress-test-philosophy-and-after-action-review-aar/"]
 ---
 
-# Success Dance Definition (Open Question)
-
 **Summary:** Recurring open question: what does a 'successful dance' between Builder and Survivor look like operationally? Needs concrete definition and indicators.
 
 **Source:** Raw Transcripts TXT: Batches 1–2

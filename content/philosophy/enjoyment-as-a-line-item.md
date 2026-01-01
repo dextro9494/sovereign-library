@@ -6,8 +6,6 @@ status: "raw"
 connected: ["/protocols/real-world-connection-protocol-rcp/", "/patterns/pleasure-architecture-vs-gate-systems/"]
 ---
 
-# Enjoyment as a Line Item
-
 **Summary:** Personal enjoyment is treated as a legitimate asset line item, not a reward. Example: tangible 'sovereign enjoyment' vehicle goal.
 
 **Source:** Raw Transcripts: Batches 1, 3

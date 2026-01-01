@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/philosophy/relational-sovereignty-parallel-track-declaration/"]
 ---
 
-# Fiancée: Lifeboat Partnership & Domestic Stability
-
 **Summary:** Vector dynamic: provides domestic stability and effort; functions as lifeboat partnership. Support can be silent, not strategic advising.
 
 **Source:** Raw Transcripts: Batches 1–4, 6

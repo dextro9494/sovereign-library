@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/philosophy/fortress-base-low-complexity-stability/"]
 ---
 
-# Anchor Decision: PostNL as Fortress Base
-
 **Summary:** Chose PostNL mail-sorting job as low-cognitive-overhead anchor to create psychic and financial space for the rebuild.
 
 **Source:** Raw Transcripts: Batch 6

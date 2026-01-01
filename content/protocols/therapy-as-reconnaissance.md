@@ -6,8 +6,6 @@ status: "canonical"
 connected: ["/patterns/core-contradiction-high-performance-hardware-malware-os/", "/philosophy/fortress-base-low-complexity-stability/"]
 ---
 
-# Therapy as Reconnaissance
-
 **Summary:** Engage mental health systems not as surrender but as expert terrain analysis and tool identification. You brief the specialist like an operator.
 
 **Source:** Raw Transcripts: Batches 5–6
