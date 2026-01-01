@@ -1,7 +1,8 @@
 ---
-title: "Council Briefing"
+title: Council Briefing
 date: 2025-12-28
-tags: ["council"]
+tags:
+- council
 ---
 
 AI Council — start here.
@@ -45,3 +46,7 @@ What becomes possible when Library holds the weight and Mirror shows the truth. 
 ## Key Protocols
 - Circuit Breaker: lockout >72 hours without new threat data → veto expires
 - RCP Filter: “Does this build verifiable, material sovereignty — territory I can hold — or is it compensating for something?”
+
+## Optional members
+- **Gemini:** Corporate/Institutional outside lens (used when needed).
+

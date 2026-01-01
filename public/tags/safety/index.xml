@@ -6,8 +6,15 @@
     <description>Recent content in Safety on The Sovereign Library</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dextro9494.github.io/sovereign-library/tags/safety/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Circuit Breaker</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/circuit-breaker/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/circuit-breaker/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; If you’ve been locked out for &amp;gt;72 hours without new threat data, the veto expires. You act.&lt;/p&gt;&#xA;&lt;h2 id=&#34;trigger&#34;&gt;Trigger&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lockout persists beyond ~72 hours &lt;strong&gt;and&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;There is no new threat data (no new evidence that conditions changed).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;rule&#34;&gt;Rule&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The “no” loses authority.&lt;/li&gt;&#xA;&lt;li&gt;You perform the smallest executable action to re-enter motion.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;Prevent indefinite paralysis driven by old threat firmware.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Continuity Protocol (User-Controlled)</title>
       <link>https://dextro9494.github.io/sovereign-library/protocols/continuity-protocol-user-controlled/</link>

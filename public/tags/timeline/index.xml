@@ -6,8 +6,15 @@
     <description>Recent content in Timeline on The Sovereign Library</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dextro9494.github.io/sovereign-library/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timeline Verification</title>
+      <link>https://dextro9494.github.io/sovereign-library/history/timeline-verification/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/history/timeline-verification/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; A verified timeline (Nov 25 → end of Dec 2025) used to correct date drift across entries.&lt;/p&gt;&#xA;&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prevent “date hallucinations” across tools and sessions.&lt;/li&gt;&#xA;&lt;li&gt;Keep the Library grounded.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;where-to-update-next&#34;&gt;Where to update next&lt;/h2&gt;&#xA;&lt;p&gt;If any entry’s date is uncertain, run Temporal Alignment Verification and update here.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Substance Progression Timeline (Tool History)</title>
       <link>https://dextro9494.github.io/sovereign-library/history/substance-progression-timeline-tool-history/</link>

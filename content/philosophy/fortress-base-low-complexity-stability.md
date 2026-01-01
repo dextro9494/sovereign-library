@@ -1,10 +1,13 @@
 ---
-title: "Fortress Base: Low-Complexity Stability"
+title: 'Fortress Base: Low-Complexity Stability'
 date: 2025-11-25
-tags: ["stability", "infrastructure", "work"]
-status: "canonical"
+tags:
+- stability
+- infrastructure
+- work
+status: canonical
 connected:
-  - "/history/anchor-decision-postnl-as-fortress-base/"
+- /history/anchor-decision-postnl-as-fortress-base/
 ---
 
 Summary: Build a ‘Fortress Base’ job (low complexity, high stability) that funds the rebuild and reduces volatility.
@@ -19,6 +22,3 @@ PostNL mail sorting — started November 25, 2025 (direct contract). Platform jo
 - Shift alignment with partner is treated as governance (same shifts, no exceptions).
 - This base funds the build (car, investing automation, boxing, housing options).
 - Known risk: restructure end-of-2026 timeframe. Plan assumes adaptation.
-
-### Connected to
-- Anchor Decision: PostNL as Fortress Base

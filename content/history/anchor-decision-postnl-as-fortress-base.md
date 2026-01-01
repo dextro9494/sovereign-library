@@ -1,10 +1,14 @@
 ---
-title: "Anchor Decision: PostNL as Fortress Base"
+title: 'Anchor Decision: PostNL as Fortress Base'
 date: 2025-11-25
-tags: ["postnl", "fortress-base", "stability", "job"]
-status: "canonical"
+tags:
+- postnl
+- fortress-base
+- stability
+- job
+status: canonical
 connected:
-  - "/philosophy/fortress-base-low-complexity-stability/"
+- /philosophy/fortress-base-low-complexity-stability/
 ---
 
 Summary: Chose PostNL mail-sorting job as low-cognitive-overhead anchor to create psychic and financial space for the rebuild.
@@ -19,6 +23,3 @@ Fortress Base: low complexity, high stability. Funds the rebuild. Reduces volati
 - Both of us (István + Ella) work the same shifts as a non-negotiable boundary.
 - Morning-shift realities acknowledged (early start, routine load).
 - Restructure risk exists (morning shift may change end of 2026). This remains “platform, not destination.”
-
-### Connected to
-- Fortress Base: Low-Complexity Stability

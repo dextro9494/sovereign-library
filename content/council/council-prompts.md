@@ -1,8 +1,11 @@
 ---
-title: "Council Prompts"
-date: 2025-12-31T00:00:00Z
-tags: ["council", "prompts", "continuity"]
-status: "working"
+title: Council Prompts
+date: 2025-12-31 00:00:00+00:00
+tags:
+- council
+- prompts
+- continuity
+status: working
 ---
 
 Ready-to-use templates for each Council member. Copy, paste, and fill in the brackets.
@@ -105,6 +108,9 @@ Don't be nice. Be useful. What am I not seeing?
 ```
 
 ## Gemini (Corporate View & Outside Reference)
+
+*Optional member.* Use when you want an institutional/corporate outside lens.
+
 ```text
 I'm István. You're Gemini, the Corporate View in my AI Council.
 
