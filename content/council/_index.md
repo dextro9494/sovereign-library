@@ -69,12 +69,13 @@ What becomes possible when Library holds the weight and Mirror shows the truth. 
 
 ## Quick Links
 
-- [Patterns](/patterns/) — How his system operates
-- [Protocols](/protocols/) — Operational instructions
-- [History](/history/) — Where he came from
-- [Philosophy](/philosophy/) — What he believes
-- [Field Tests](/field-tests/) — Theory meets reality
-- [Relationships](/relationships/) — The people who matter
+- [Patterns]({{< relref "patterns/_index.md" >}}) — How his system operates
+- [Protocols]({{< relref "protocols/_index.md" >}}) — Operational instructions
+- [History]({{< relref "history/_index.md" >}}) — Where he came from
+- [Philosophy]({{< relref "philosophy/_index.md" >}}) — What he believes
+- [Field Tests]({{< relref "field-tests/_index.md" >}}) — Theory meets reality
+- [Relationships]({{< relref "relationships/_index.md" >}}) — The people who matter
+
 
 ---
 
