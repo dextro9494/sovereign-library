@@ -9,29 +9,29 @@ title = "The Sovereign Library"
 [menu]
   [[menu.main]]
     name = "Patterns"
-    url = "patterns/"
+    url = "/patterns/"
     weight = 1
   [[menu.main]]
     name = "Protocols"
-    url = "protocols/"
+    url = "/protocols/"
     weight = 2
   [[menu.main]]
     name = "History"
-    url = "history/"
+    url = "/history/"
     weight = 3
   [[menu.main]]
     name = "Philosophy"
-    url = "philosophy/"
+    url = "/philosophy/"
     weight = 4
   [[menu.main]]
     name = "Field Tests"
-    url = "field-tests/"
+    url = "/field-tests/"
     weight = 5
   [[menu.main]]
     name = "Relationships"
-    url = "relationships/"
+    url = "/relationships/"
     weight = 6
   [[menu.main]]
     name = "Council"
-    url = "council/"
+    url = "/council/"
     weight = 7
