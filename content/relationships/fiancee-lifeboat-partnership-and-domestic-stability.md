@@ -1,23 +1,34 @@
 ---
-title: "Fiancée: Lifeboat Partnership & Domestic Stability"
-date: "2025-12-08"
-tags: ["fiancee", "partnership", "stability"]
+title: "Fiancée: Chosen Presence, Co-Building & Domestic Stability"
+date: 2025-12-08
+tags: ["fiancee", "relationship", "stability", "co-creation"]
 status: "canonical"
-connected: ["/philosophy/relational-sovereignty-parallel-track-declaration/"]
+connected:
+  - "/relationships/project-greenhouse-co-conspirator-status/"
+  - "/philosophy/relational-sovereignty-parallel-track-declaration/"
 ---
 
-**Summary:** Vector dynamic: provides domestic stability and effort; functions as lifeboat partnership. Support can be silent, not strategic advising.
-
-**Source:** Raw Transcripts: Batches 1–4, 6
+Summary: Provides domestic stability through chosen presence, not supervision. Co-builder in practical projects. Trust-based partnership (no surveillance). The bond is love, closeness, and co-creation, not “lifeboat” dynamics.
 
 ## Context
-Together since 10 May 2019. Six years. She knows everything.
+Together since 10 May 2019. She knows everything that matters.
+
+## How we operate (treaty)
+- She doesn’t read the Council chats directly unless I show her something.
+- I share what’s relevant. She shares her read of reality.
+- Partnership without secrecy, without surveillance.
 
 ## Function
-- Domestic stability partner
+- Domestic stability partner (presence-based support)
 - Co-conspirator on practical projects
-- Provides support through presence, not necessarily strategic advising
-- Sings when happy
+- Social connector (reads people, gathers signals)
+- Reflects me in a way I can actually receive
 
 ## Third Layer Connection
-Boxing together (starting Jan 4). She found it — she always wanted to learn something like this. Complete beginners together.
+Boxing together as a Third Layer catalyst.
+- Originally planned for early January 2026
+- Updated plan: start around ~January 20, 2026 (budget/timing reality)
+
+### Connected to
+- Relational Sovereignty: Parallel Track Declaration
+- Project Greenhouse: Co-Conspirator Status
