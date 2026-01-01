@@ -12,7 +12,7 @@
             <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Title }}</a>
             <ul class="nav-links">
                 {{ range .Site.Menus.main }}
-                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                <a href="{{ .URL | relURL }}">{{ .Name }}</a>
                 {{ end }}
             </ul>
         </nav>
