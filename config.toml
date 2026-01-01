@@ -8,30 +8,39 @@ title = "The Sovereign Library"
 
 [menu]
   [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 0
+
+  [[menu.main]]
     name = "Patterns"
-    url = "/patterns/"
+    pageRef = "/patterns"
     weight = 1
   [[menu.main]]
     name = "Protocols"
-    url = "/protocols/"
+    pageRef = "/protocols"
     weight = 2
   [[menu.main]]
     name = "History"
-    url = "/history/"
+    pageRef = "/history"
     weight = 3
   [[menu.main]]
     name = "Philosophy"
-    url = "/philosophy/"
+    pageRef = "/philosophy"
     weight = 4
   [[menu.main]]
     name = "Field Tests"
-    url = "/field-tests/"
+    pageRef = "/field-tests"
     weight = 5
   [[menu.main]]
     name = "Relationships"
-    url = "/relationships/"
+    pageRef = "/relationships"
     weight = 6
   [[menu.main]]
     name = "Council"
-    url = "/council/"
+    pageRef = "/council"
     weight = 7
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
