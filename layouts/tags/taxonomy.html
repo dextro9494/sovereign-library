@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="card">
+  <h1>{{ .Title }}</h1>
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  <h3>Pages tagged with "{{ .Title }}"</h3>
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ if .Date }}<span class="meta"> — {{ .Date.Format "2006-01-02" }}</span>{{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</article>
+{{ end }}
