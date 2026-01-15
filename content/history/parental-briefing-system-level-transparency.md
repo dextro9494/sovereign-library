@@ -3,7 +3,7 @@ title: "Parental Briefing: System-Level Transparency"
 date: "2025-12-06"
 tags: ["family", "communication", "tools"]
 status: "working"
-connected: ["/library/protocols/substance-audit-neurochemical-tool-deployment/", "/relationships/family-dynamics-baseline-strategic-solitude/"]
+connected: ["/protocols/substance-audit-neurochemical-tool-deployment/", "/relationships/family-dynamics-baseline-strategic-solitude/"]
 ---
 
 **Summary:** In teens (~age 17), scheduled formal meeting with parents about neurochemical tools, framed as logistics briefing rather than covert operation.

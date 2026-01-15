@@ -1,4 +1,4 @@
-baseURL = "https://dextro9494.github.io/sovereign-library-v3/"
+baseURL = "https://dextro9494.github.io/sovereign-library/"
 languageCode = "en"
 title = "The Sovereign Library"
 
@@ -12,29 +12,33 @@ title = "The Sovereign Library"
     pageRef = "/"
     weight = 0
   [[menu.main]]
-    name = "Library"
-    pageRef = "/library"
+    name = "Patterns"
+    pageRef = "/patterns"
     weight = 1
   [[menu.main]]
-    name = "Mirror"
-    pageRef = "/mirror"
+    name = "Protocols"
+    pageRef = "/protocols"
     weight = 2
   [[menu.main]]
-    name = "Life Layer"
-    pageRef = "/life-layer"
+    name = "History"
+    pageRef = "/history"
     weight = 3
+  [[menu.main]]
+    name = "Philosophy"
+    pageRef = "/philosophy"
+    weight = 4
+  [[menu.main]]
+    name = "Field Tests"
+    pageRef = "/field-tests"
+    weight = 5
+  [[menu.main]]
+    name = "Relationships"
+    pageRef = "/relationships"
+    weight = 6
   [[menu.main]]
     name = "Council"
     pageRef = "/council"
-    weight = 4
-  [[menu.main]]
-    name = "Finance"
-    pageRef = "/finance"
-    weight = 5
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 90
+    weight = 7
 
 canonifyURLs = true
 

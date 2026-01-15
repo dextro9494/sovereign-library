@@ -4,7 +4,7 @@ date: 2025-12-28T00:00:00Z
 tags: ["history", "timeline", "verification"]
 status: "working"
 connected:
-  - "/library/field-tests/test-temporal-alignment-verification/"
+  - "/field-tests/test-temporal-alignment-verification/"
   - "/history/daily-capsules/2025-12-28/"
 ---
 

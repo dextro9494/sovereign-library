@@ -3,7 +3,7 @@ title: "Professional Pivot: Zero Connections → Infrastructure Build"
 date: "2025-12-08"
 tags: ["linkedin", "network", "infrastructure"]
 status: "canonical"
-connected: ["/library/field-tests/linkedin-identity-deployment-administrative-and-database-specialist/"]
+connected: ["/field-tests/linkedin-identity-deployment-administrative-and-database-specialist/"]
 ---
 
 **Summary:** Encountered 'zero connections' wall; chose two-phase build: foundation first, then outreach.

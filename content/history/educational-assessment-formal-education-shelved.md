@@ -3,7 +3,7 @@ title: "Educational Assessment: Formal Education Shelved"
 date: "2025-12-08"
 tags: ["education", "strategy", "skills"]
 status: "canonical"
-connected: ["/library/patterns/diagnose-design-deploy-gather-integrate-core-loop/"]
+connected: ["/patterns/diagnose-design-deploy-gather-integrate-core-loop/"]
 ---
 
 **Summary:** Considered accounting/study; identified language/time costs as gates. Pivoted to immediate job search + targeted certs.

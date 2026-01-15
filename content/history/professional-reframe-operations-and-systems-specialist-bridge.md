@@ -3,7 +3,7 @@ title: "Professional Reframe: Operations & Systems Specialist Bridge"
 date: "2025-12-14"
 tags: ["resume", "identity", "bridge-narrative", "sap"]
 status: "canonical"
-connected: ["/library/patterns/identity-as-market-signal/", "/library/field-tests/resume-v2-0-bridge-narrative-test/"]
+connected: ["/patterns/identity-as-market-signal/", "/field-tests/resume-v2-0-bridge-narrative-test/"]
 ---
 
 **Summary:** Reframed fragmented work history (SAP coordination + logistics agency chaos) into a coherent bridge narrative: Operations & Systems Specialist / Builder.

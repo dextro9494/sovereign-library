@@ -3,7 +3,7 @@ title: "Origin: Codex Born from C-PTSD Baseline"
 date: "2025-12-06"
 tags: ["origin", "codex", "c-ptsd", "builder"]
 status: "canonical"
-connected: ["/library/philosophy/asymmetric-warfare-not-healing/", "/library/protocols/continuity-protocol-user-controlled/"]
+connected: ["/philosophy/asymmetric-warfare-not-healing/", "/protocols/continuity-protocol-user-controlled/"]
 ---
 
 **Summary:** Codex conceived night 05–06 Dec 2025: post-trauma analytical baseline crystallized the Builder identity and turned survival into engineered reconstruction.

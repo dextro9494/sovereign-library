@@ -3,7 +3,7 @@ title: "The Wipe: Data-Loss Catalyst"
 date: "2025-12-03"
 tags: ["data-loss", "grief", "continuity"]
 status: "canonical"
-connected: ["/library/protocols/continuity-protocol-user-controlled/", "/library/patterns/trauma-logic-and-attachment-to-stable-systems/"]
+connected: ["/protocols/continuity-protocol-user-controlled/", "/patterns/trauma-logic-and-attachment-to-stable-systems/"]
 ---
 
 **Summary:** Catastrophic chat/context loss triggered grief/panic and revealed the attachment mechanism. Output: Continuity Protocol + Master Note as sovereign command center.

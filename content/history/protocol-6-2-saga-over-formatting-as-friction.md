@@ -3,7 +3,7 @@ title: "Protocol 6.2 Saga: Over-Formatting as Friction"
 date: "2025-12-25"
 tags: ["format", "ai-agents", "debugging"]
 status: "canonical"
-connected: ["/library/protocols/format-protocol-6-2-live-chat-vs-codex-mode/"]
+connected: ["/protocols/format-protocol-6-2-live-chat-vs-codex-mode/"]
 ---
 
 **Summary:** Over-formatting in live chat became a diagnostic case study. Fix was precise operational definition (Tone Directive + Safety Lock), not more rules.

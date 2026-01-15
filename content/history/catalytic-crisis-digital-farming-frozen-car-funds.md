@@ -3,7 +3,7 @@ title: "Catalytic Crisis: Digital Farming + Frozen Car + Funds"
 date: "2025-11-26"
 tags: ["crisis", "failure", "telemetry", "survivor"]
 status: "canonical"
-connected: ["/library/field-tests/test-001-digital-farming-initiative-market-failure/", "/library/protocols/stress-test-philosophy-and-after-action-review-aar/"]
+connected: ["/field-tests/test-001-digital-farming-initiative-market-failure/", "/protocols/stress-test-philosophy-and-after-action-review-aar/"]
 ---
 
 **Summary:** Concurrent failures: Digital Farming market-failed; Frozen Car incident; fund depletion pre-salary. Lesson: systemic failure demands systemic response; Survivor stockpiling worked.

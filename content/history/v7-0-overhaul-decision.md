@@ -3,7 +3,7 @@ title: "v7.0 Overhaul Decision"
 date: "2025-12-26"
 tags: ["v7-0", "scaling", "architecture", "decision"]
 status: "canonical"
-connected: ["/library/protocols/archive-integration-methodology/", "/library/philosophy/core-archive-dual-layer-architecture/"]
+connected: ["/protocols/archive-integration-methodology/", "/philosophy/core-archive-dual-layer-architecture/"]
 ---
 
 **Summary:** Recognized Codex scaling limits and initiated v7.0 overhaul: dual-layer architecture (Core + Archive) and legacy integration workflow.

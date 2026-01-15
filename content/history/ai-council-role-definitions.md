@@ -3,7 +3,7 @@ title: "AI Council Role Definitions"
 date: "2025-12-08"
 tags: ["ai-council", "roles", "delegation"]
 status: "working"
-connected: ["/library/protocols/ai-deployment-protocol-council-delegation/"]
+connected: ["/protocols/ai-deployment-protocol-council-delegation/"]
 ---
 
 **Summary:** Council roles defined and iterated: DeepSeek as strategist/architect, ChatGPT as archivist/psych recon, Claude as narrative forge, Grok as tactical reserve/boundary tester.

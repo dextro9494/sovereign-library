@@ -8,7 +8,7 @@ tags:
 - job
 status: canonical
 connected:
-- /library/philosophy/fortress-base-low-complexity-stability/
+- /philosophy/fortress-base-low-complexity-stability/
 ---
 
 Summary: Chose PostNL mail-sorting job as low-cognitive-overhead anchor to create psychic and financial space for the rebuild.

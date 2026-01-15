@@ -9,7 +9,7 @@ tags:
 status: canonical
 connected:
 - /relationships/project-greenhouse-co-conspirator-status/
-- /library/philosophy/relational-sovereignty-parallel-track-declaration/
+- /philosophy/relational-sovereignty-parallel-track-declaration/
 slug: fiancee-chosen-presence-co-building-domestic-stability
 aliases:
 - /relationships/fiancee-lifeboat-partnership-and-domestic-stability/
